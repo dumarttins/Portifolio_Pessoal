@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Khula:wght@300;400;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --black: #000000;
+    --White-font: #FFFFFF;
+    --header-curriculo: #345473;
+    
+    --fonte-header: "Khula", sans-serif;
+    --fonte-secundaria: 'Montserrat', sans-serif;
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+    background-image: url(../assents/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 30%;
+    background-attachment: fixed;
+}
+
+.headerConteiner{
+    display: flex;
+    justify-content: end;
+    background-color: black;
+    padding: 1.5% 15%;
+    opacity: 50%;
+}
+
+.headerConteiner__nav{
+    display: flex;
+    gap: 25px;   
+}
+
+.headerConteiner__nav__link{
+    color: var(--White-font);
+    font-family: var(--fonte-header);
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 3px solid var(--White-font);
+}
+
+.headerConteiner__nav__link:hover{
+    transform: translateY(-2px);
+}
+
+.mainConteiner{
+    display: flex;
+    flex-direction: column;
+}
+
+.mainConteiner__title{
+    display: flex;
+    justify-content: center;
+    margin: 5% 34%;
+    color: var(--White-font);
+    font-family: var(--fonte-header);
+    font-size: 34px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.mainConteiner__icones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 3% 2%;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 2% 15%;
+    gap: 5%;
+
+.mainConteiner__icones__divIcones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainConteiner__icones__icones{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+}
