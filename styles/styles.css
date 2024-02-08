@@ -53,6 +53,7 @@ body{
 .mainConteiner{
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .mainConteiner__title{
@@ -61,9 +62,10 @@ body{
     margin: 5% 34%;
     color: var(--White-font);
     font-family: var(--fonte-header);
-    font-size: 34px;
+    font-size: 2rem;
     border: 3px solid black;
     border-radius: 20px;
+    padding: 0 2rem;
 }
 
 .mainConteiner__icones{
@@ -74,16 +76,23 @@ body{
     border: 3px solid black;
     border-radius: 20px;
     margin: 2% 15%;
+    max-width: 72rem;
+    min-width: 62.2rem;
     gap: 5%;
+    background-color: rgba(0,0,0,0.3);
+}
 
 .mainConteiner__icones__divIcones{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #FFFFFF;
+    filter: blur(80px);
+    border-radius: 50px;
+    overflow: hidden;
 }
 
 .mainConteiner__icones__icones{
-    width: 180px;
-    height: 180px;
-    border-radius: 100px;
+    width: 160px;
+    height: 160px;
 }
