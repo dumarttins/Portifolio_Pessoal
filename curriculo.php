@@ -76,12 +76,13 @@
                             <p>• Manutenção preventiva e corretiva impressoras 3D.</p>
                             <p>• Viagens internacionais para prestação de suporte a scanners.</p>
                         </div>       
+                    </div>
                 </div>
                 <!-- Lado direito do meu curriculo -->
                 <div class="mainConteinerS__curriculo__main__rigth">
                     <h1>Teste</h1>
                 </div>
-            </div>  
+            </div> 
         </div>
     </main>
 </body>
