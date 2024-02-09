@@ -75,12 +75,68 @@
                             <p>• Gestão infraestrutura interna.</p>
                             <p>• Manutenção preventiva e corretiva impressoras 3D.</p>
                             <p>• Viagens internacionais para prestação de suporte a scanners.</p>
-                        </div>       
+                        </div>
                     </div>
                 </div>
                 <!-- Lado direito do meu curriculo -->
                 <div class="mainConteinerS__curriculo__main__rigth">
-                    <h1>Teste</h1>
+                    <span></span>
+                    <div class="mainConteinerS__curriculo__main__rigth__empresa">
+                        <div>
+                            <h2 class="mainConteinerS__curriculo__main__rigth__empresa__title">JSL S/A.<br>(Jun 2015 - Set 2016)</h2>
+                        </div>
+                        <div class="mainConteinerS__curriculo__main__rigth__empresa__texto">
+                            <h3 class="mainConteinerS__curriculo__main__rigth__empresa__title">Menor Aprendiz</h3>
+                            <p>• Arquivar documentos.</p>
+                            <p>• Gerenciar estoques de EPI’s.</p>
+                        </div>
+                    </div>
+                    <h1 class="mainConteinerS__curriculo__main__rigth__title">Formação Acadêmica</h1>
+                    <div class="mainConteinerS__curriculo__main__rigth">
+                        <div class="mainConteinerS__curriculo__main__rigth__empresa">
+                        <div>
+                            <h2 class="mainConteinerS__curriculo__main__rigth__empresa__title">Graduação Sistemas de Informação</h2>
+                            <p class="mainConteinerS__curriculo__main__rigth__empresa__texto">• Newton Paiva (Jan 2022 - Dez 2025)</p>
+                        </div>
+                        <div class="mainConteinerS__curriculo__main__rigth__empresa__texto">
+                            <h3 class="mainConteinerS__curriculo__main__rigth__empresa__title">Certificações</h3>
+                            <p>• PHP.</p>
+                            <p>• PHP Strings.</p>
+                            <p>• Avançando com PHP.</p>
+                            <p>• HTML & CSS.</p>
+                            <p>• Figma.</p>
+                        </div>
+                    </div>
+                    <h1 class="mainConteinerS__curriculo__main__rigth__title">Habilidades e Interesses</h1>
+                    <div class="mainConteinerS__curriculo__main__rigth">
+                        <div class="mainConteinerS__curriculo__main__rigth__empresa">
+                        <div>
+                            <h2 class="mainConteinerS__curriculo__main__rigth__empresa__title">Inglês</h2>
+                            <p class="mainConteinerS__curriculo__main__rigth__empresa__texto">• Leitura e compreendimento.</p>
+                        </div>
+                        <div class="mainConteinerS__curriculo__main__rigth__empresa__texto">
+                            <h3 class="mainConteinerS__curriculo__main__rigth__empresa__title">Desenvolvimento de sistemas</h3>
+                            <p>• PHP.</p>
+                            <p>• Java Script.</p>
+                            <p>• React.</p>
+                            <p>• HTML & CSS.</p>
+                        </div>
+                    </div>
+                    <h1 class="mainConteinerS__curriculo__main__rigth__title">Referências </h1>
+                    <div class="mainConteinerS__curriculo__main__rigth">
+                        <div class="mainConteinerS__curriculo__main__rigth__empresa">
+                        <div>
+                            <h2 class="mainConteinerS__curriculo__main__rigth__empresa__title">Inglês</h2>
+                            <p class="mainConteinerS__curriculo__main__rigth__empresa__texto">• Leitura e compreendimento.</p>
+                        </div>
+                        <div class="mainConteinerS__curriculo__main__rigth__empresa__texto">
+                            <h3 class="mainConteinerS__curriculo__main__rigth__empresa__title">Desenvolvimento de sistemas</h3>
+                            <p>• PHP.</p>
+                            <p>• Java Script.</p>
+                            <p>• React.</p>
+                            <p>• HTML & CSS.</p>
+                        </div>
+                    </div>
                 </div>
             </div> 
         </div>

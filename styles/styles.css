@@ -100,7 +100,7 @@ body{
 .mainConteinerS{
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    margin: 5% 10%;
     
 }
 
@@ -111,7 +111,7 @@ body{
     padding: 1%;
     margin: 5% 3%;
     max-width: 1500px;
-    height: auto;
+    /* height: auto; */
     color:var(--White-font);
     align-items: center;
     text-align: justify;
@@ -145,10 +145,7 @@ body{
     background-color: rgba(0, 0, 0, 0.5);
     border: 3px solid var(--black);
     border-radius: 20px;
-    width: 70%;
-    height: 1577px;
-    max-width: 1500px;
-    margin: 3%;
+    /* margin: 10%; */
 }
 
 .mainConteinerS__header{
@@ -189,23 +186,28 @@ body{
 
 .mainConteinerS__curriculo__main{
     display: flex;
-    margin-top: 10%;
+    justify-content: space-between;
+    gap: 120px;
+    margin: 8% 5%;
     color: var(--White-font);
 }
 
-.mainConteinerS__curriculo__main__left{
+.mainConteinerS__curriculo__main__left, .mainConteinerS__curriculo__main__rigth{
     display: flex;
     flex-direction: column;
+    max-width: 475px;
+    min-width: 475px;
     gap: 30px;
     text-align: center;
 }
 
-.mainConteinerS__curriculo__main__left__title{
+.mainConteinerS__curriculo__main__left__title, .mainConteinerS__curriculo__main__rigth__title{
     font-size: 34px;
     font-family: var(--fonte-texto);
+    margin-bottom: -30px;
 }
 
-.mainConteinerS__curriculo__main__left__empresa{
+.mainConteinerS__curriculo__main__left__empresa, .mainConteinerS__curriculo__main__rigth__empresa{
     display: flex;
     flex-direction: column;
     padding: 1% 3%;
@@ -214,12 +216,16 @@ body{
     border-radius: 20px;
 }
 
-.mainConteinerS__curriculo__main__left__empresa__title{
-    font-size: 24px;
+.mainConteinerS__curriculo__main__left__empresa__title, .mainConteinerS__curriculo__main__rigth__empresa__title{
+    font-size: 20px;
     font-family: var(--fonte-texto);
 }
 
-.mainConteinerS__curriculo__main__left__empresa__texto{
+.mainConteinerS__curriculo__main__left__empresa__texto, .mainConteinerS__curriculo__main__rigth__empresa__texto{
     font-size: 20px;
     font-family: var(--fonte-texto);    
+}
+
+span{
+    margin-top: 13px;
 }
