@@ -11,7 +11,7 @@
         <nav class="headerConteiner__nav">
             <a class="headerConteiner__nav__link" href="index.php">Home</a>
             <a class="headerConteiner__nav__link" href="sobre.php">Sobre</a>
-            <a class="headerConteiner__nav__link" href="curriculo.php">Curriculo</a>
+            <a class="headerConteiner__nav__link" href="curriculo.php">Currículo</a>
         </nav>
     </header>
     <main class="mainConteinerS">
@@ -96,7 +96,7 @@
                         <div class="mainConteinerS__curriculo__main__rigth__empresa">
                         <div>
                             <h2 class="mainConteinerS__curriculo__main__rigth__empresa__title">Graduação Sistemas de Informação</h2>
-                            <p class="mainConteinerS__curriculo__main__rigth__empresa__texto">• Newton Paiva (Jan 2022 - Dez 2025)</p>
+                            <p class="mainConteinerS__curriculo__main__rigth__empresa__texto">• Centro Universitário Newton Paiva (Jan 2022 - Dez 2025)</p>
                         </div>
                         <div class="mainConteinerS__curriculo__main__rigth__empresa__texto">
                             <h3 class="mainConteinerS__curriculo__main__rigth__empresa__title">Certificações</h3>
@@ -122,7 +122,7 @@
                             <p>• HTML & CSS.</p>
                         </div>
                     </div>
-                    <h1 class="mainConteinerS__curriculo__main__rigth__title">Referências </h1>
+                    <h1 class="mainConteinerS__curriculo__main__rigth__title">Referência</h1>
                     <div class="mainConteinerS__curriculo__main__rigth">
                         <div class="mainConteinerS__curriculo__main__rigth__empresa">
                         <div>

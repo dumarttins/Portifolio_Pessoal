@@ -11,7 +11,7 @@
         <nav class="headerConteiner__nav">
             <a class="headerConteiner__nav__link" href="index.php">Home</a>
             <a class="headerConteiner__nav__link" href="sobre.php">Sobre</a>
-            <a class="headerConteiner__nav__link" href="curriculo.php">Curriculo</a>
+            <a class="headerConteiner__nav__link" href="curriculo.php">Currículo</a>
         </nav>
     </header>
     <main class="mainConteiner">
@@ -33,7 +33,7 @@
             </div>
             <div class="mainConteiner__icones__divIcones">
                 <img class="mainConteiner__icones__icones" src=".\assents\NewItens\JS.png" alt="JavaScript">
-                <p class="javaScript">JavaScript</p>
+                <p>JS</p>
             </div>
             <div class="mainConteiner__icones__divIcones">
                 <img class="mainConteiner__icones__icones" src=".\assents\NewItens\React2.png" alt="React">
