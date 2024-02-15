@@ -33,7 +33,7 @@
             </div>
             <div class="mainConteiner__icones__divIcones">
                 <img class="mainConteiner__icones__icones" src=".\assents\NewItens\JS.png" alt="JavaScript">
-                <p>JavaScript</p>
+                <p class="javaScript">JavaScript</p>
             </div>
             <div class="mainConteiner__icones__divIcones">
                 <img class="mainConteiner__icones__icones" src=".\assents\NewItens\React2.png" alt="React">
