@@ -77,11 +77,8 @@
                             <p>• Viagens internacionais para prestação de suporte a scanners.</p>
                         </div>
                     </div>
-                </div>
-                <!-- Lado direito do meu curriculo -->
-                <div class="mainConteinerS__curriculo__main__rigth">
-                    <span></span>
-                    <div class="mainConteinerS__curriculo__main__rigth__empresa">
+                    <!-- JSL -->
+                    <div class="mainConteinerS__curriculo__main__left__empresa">
                         <div>
                             <h2 class="mainConteinerS__curriculo__main__rigth__empresa__title">JSL S/A.<br>(Jun 2015 - Set 2016)</h2>
                         </div>
@@ -91,6 +88,11 @@
                             <p>• Gerenciar estoques de EPI’s.</p>
                         </div>
                     </div>
+                    
+                </div>
+                <!-- Lado direito do meu curriculo -->
+                <div class="mainConteinerS__curriculo__main__rigth">
+                    <!-- Formação Academica -->
                     <h1 class="mainConteinerS__curriculo__main__rigth__title">Formação Acadêmica</h1>
                     <div class="mainConteinerS__curriculo__main__rigth">
                         <div class="mainConteinerS__curriculo__main__rigth__empresa">
@@ -107,6 +109,7 @@
                             <p>• Figma.</p>
                         </div>
                     </div>
+                    <!-- Habilidades e Interesses -->
                     <h1 class="mainConteinerS__curriculo__main__rigth__title">Habilidades e Interesses</h1>
                     <div class="mainConteinerS__curriculo__main__rigth">
                         <div class="mainConteinerS__curriculo__main__rigth__empresa">
@@ -122,6 +125,7 @@
                             <p>• HTML & CSS.</p>
                         </div>
                     </div>
+                    <!-- Referências -->
                     <h1 class="mainConteinerS__curriculo__main__rigth__title">Referência</h1>
                     <div class="mainConteinerS__curriculo__main__rigth">
                         <div class="mainConteinerS__curriculo__main__rigth__empresa">

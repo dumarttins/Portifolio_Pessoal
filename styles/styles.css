@@ -118,8 +118,8 @@ body{
     gap: 15px;
     padding: 1%;
     margin: 5% 3%;
-    max-width: 1500px;
-    /* height: auto; */
+    max-width: 1300px;
+    height: auto; 
     color:var(--White-font);
     align-items: center;
     text-align: justify;
@@ -139,8 +139,8 @@ body{
 }
 
 .mainConteinerS__sobre__img{
-    width: 474px;
-    height: 474px;
+    width: 374px;
+    height: 374px;
     border-radius: 100%;
     filter: grayscale(100%);
 }
@@ -456,8 +456,6 @@ span{
         width: 100px;
         height: 100px;
     }
-
-    
 
     span{
         margin-top: -50px;
