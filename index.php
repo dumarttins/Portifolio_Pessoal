@@ -66,7 +66,9 @@
         </div>
     </main>
     <footer>
-
+        <section>
+            <h1>Desenvolvimento e Design feitos por </h1>
+        </section>
     </footer>
 </body>
 </html>

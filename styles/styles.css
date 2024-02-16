@@ -117,14 +117,13 @@ body{
     justify-content: space-around;
     gap: 15px;
     padding: 1%;
-    margin: 5% 3%;
     max-width: 1300px;
     height: auto; 
     color:var(--White-font);
     align-items: center;
     text-align: justify;
     border: 3px solid var(--black);
-    border-radius: 50px;
+    border-radius: 25px;
 }
 
 .mainConteinerS__sobre__texto{
@@ -134,7 +133,7 @@ body{
     text-align: center;
     gap: 30px;
     width: 50%;
-    font-size: 26px;
+    font-size: 22px;
     font-family: var(--fonte-texto);
 }
 
